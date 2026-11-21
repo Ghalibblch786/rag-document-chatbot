@@ -1,6 +1,6 @@
 # Project 1 Spec: RAG Document Chatbot
 
-Nov 16, 2026 · @Shoaib · Revised Nov 16, 2026 (owner decisions applied by Claude at the owner's request; see DECISIONS.md)
+Nov 16, 2026 · @Ghalib · Revised Nov 16, 2026 (owner decisions applied by Claude at the owner's request; see DECISIONS.md)
 
 ## Overview
 

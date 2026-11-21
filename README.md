@@ -22,7 +22,7 @@ These questions show features; they are not the evaluation questions. Stills of 
 
 A silent screen recording, just over a minute long, of the container UI showing the five beats above in the same order. Open it directly: [docs/media/demo.mp4](docs/media/demo.mp4).
 
-<video src="https://raw.githubusercontent.com/shoaibhassancs/rag-document-chatbot/main/docs/media/demo.mp4" controls muted width="800"></video>
+<video src="https://raw.githubusercontent.com/Ghalibblch786/rag-document-chatbot/main/docs/media/demo.mp4" controls muted width="800"></video>
 
 ## Architecture
 

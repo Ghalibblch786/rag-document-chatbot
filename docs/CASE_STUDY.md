@@ -74,4 +74,4 @@ The two targets that were met are faithfulness, where every answer the judge che
 
 ## Links
 
-Repository: github.com/shoaibhassancs/rag-document-chatbot (README with the full results table and limitations; `eval/results/` holds the per-run summaries and the hand-review verdicts).
+Repository: github.com/Ghalibblch786/rag-document-chatbot (README with the full results table and limitations; `eval/results/` holds the per-run summaries and the hand-review verdicts).
